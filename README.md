@@ -1,4 +1,4 @@
 # CardViewRecyclerView
 Name card
 
-Card View Practice
+Card View and RecyclerView Practice
